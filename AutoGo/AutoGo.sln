@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGo", "AutoGo\AutoGo.csproj", "{6CD40CCA-48A9-4E29-8DDC-60F0A0EF0FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGo.Service", "AutoGo.Service\AutoGo.Service.csproj", "{6C89674A-1CA9-4764-8E0E-601C4000E8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD40CCA-48A9-4E29-8DDC-60F0A0EF0FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD40CCA-48A9-4E29-8DDC-60F0A0EF0FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD40CCA-48A9-4E29-8DDC-60F0A0EF0FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD40CCA-48A9-4E29-8DDC-60F0A0EF0FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C89674A-1CA9-4764-8E0E-601C4000E8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C89674A-1CA9-4764-8E0E-601C4000E8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C89674A-1CA9-4764-8E0E-601C4000E8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C89674A-1CA9-4764-8E0E-601C4000E8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
